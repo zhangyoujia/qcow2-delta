@@ -20,3 +20,5 @@ qcow2-delta工具功能列表:
 16.	支持彩色输出;
 17.	支持进度条显示;
 18.	支持源镜像基本信息向dmesg输出;
+
+![useage](./test/qcow2-delta%20help.png)
